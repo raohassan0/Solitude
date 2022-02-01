@@ -70,7 +70,8 @@
 	padding-right: 30px;
 }
 .email-main-form>a{
-	right: 264px;
+	right: 80%;
+	left: 0px;
 	border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
     border-top-left-radius: 50px;
